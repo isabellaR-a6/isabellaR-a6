@@ -3,6 +3,8 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=CCA9DD&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+BEM +VINDO+NO+MEU+PERFIL!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
 
 <img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);" src="https://i.pinimg.com/originals/34/1e/80/341e800b1f29d3e34ea2eba5a6af205c.gif">
+<body style="margin: 0px; height: 100%; background-color: rgb(14, 14, 14);"><img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);" src="https://i.pinimg.com/originals/34/1e/80/341e800b1f29d3e34ea2eba5a6af205c.gif"></body>
+
   </a>
 </div>
 
