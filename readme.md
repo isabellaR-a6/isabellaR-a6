@@ -23,6 +23,7 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/isabella-radael-654619352/)
 
 
+
 <img data-target="animated-image.replacedImage" alt="estudo.gif" class="AnimatedImagePlayer-animatedImage" src="https://github.com/mari4souza/mari4souza/raw/main/src/study.gif" height="190px" style="display: block; opacity: 1;">
 
 
