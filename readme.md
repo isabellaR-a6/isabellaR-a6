@@ -2,7 +2,7 @@
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=CCA9DD&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+BEM +VINDO+NO+MEU+PERFIL!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
 
-<a href="https://itunes.apple.com/app/apple-store/id917932200?pt=39040802&amp;ct=Media1GIFV2&amp;mt=8" class="file" id="media-link" rel="noopener" target="_blank"> <img src="https://c.tenor.com/xvKqraoQHREAAAAC/tenor.gif" alt=""> </a>
+<img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://i.pinimg.com/736x/05/57/a7/0557a79986e9f0a0c00ed8eb830275d7.jpg" width="725" height="289">
     
   </a>
 </div>
