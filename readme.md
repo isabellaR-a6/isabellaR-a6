@@ -11,7 +11,7 @@
 
 #
 
-<p align="center"> Olá sou Estudante do Técnico de Desenvolvimento de Sistemas no Senai!.  Buscando sempre mais o aprendizado 🏎️❤️
+<p align="center"> *Olá sou Estudante do Técnico de Desenvolvimento de Sistemas no Senai!.  Buscando sempre aprendizagem* 🏎️❤️
   
 #
 
