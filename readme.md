@@ -7,6 +7,9 @@
 
 
   </a>
+
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMa1RUVoxl1d30GcRZDJytxdKKMts0FASKjw&amp;s" class="sFlh5c FyHeAf" alt="Pin de Subridet em Gifs para canal | Figuras retrô, Wallpapers bonitos,  8bit art" jsname="JuXqh" style="max-width: 1920px; position: absolute; visibility: hidden;" data-ilt="1748607265897">
+
 </div>
 
 <img align="center" alt="" src="./src/header-gif.gif">
