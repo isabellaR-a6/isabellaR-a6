@@ -3,6 +3,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=b19cd9&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+BEM+VINDO+AO+MEU+PERFIL!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
 
 <img src="https://i.pinimg.com/originals/f0/f0/d9/f0f0d932d6e39c7af5aa305cbd8da735.gif" jsaction="" class="sFlh5c FyHeAf iPVvYb" style="max-width: 300px; height: 234px; margin: 0px; width: 300px;" alt="Programmer Day by Porforever" jsname="kn3ccd">
+
   </a>
 </div>
 
