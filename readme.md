@@ -2,7 +2,7 @@
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=b19cd9&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+BEM+VINDO+AO+MEU+PERFIL!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
 
- <img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://i.pinimg.com/736x/9e/f2/3d/9ef23d6a01cdece7082bbc5741aa1100.jpg" width="725" height="408">
+<img src="https://i.pinimg.com/originals/f0/f0/d9/f0f0d932d6e39c7af5aa305cbd8da735.gif" jsaction="" class="sFlh5c FyHeAf iPVvYb" style="max-width: 300px; height: 234px; margin: 0px; width: 300px;" alt="Programmer Day by Porforever" jsname="kn3ccd">
   </a>
 </div>
 
