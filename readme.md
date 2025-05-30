@@ -3,7 +3,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=b19cd9&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+BEM+VINDO+AO+MEU+PERFIL!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
 
     
- <img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://i.pinimg.com/736x/9e/f2/3d/9ef23d6a01cdece7082bbc5741aa1100.jpg" width="725" height="408">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMa1RUVoxl1d30GcRZDJytxdKKMts0FASKjw&amp;s" class="sFlh5c FyHeAf" alt="Pin de Subridet em Gifs para canal | Figuras retrô, Wallpapers bonitos,  8bit art" jsname="JuXqh" style="max-width: 1920px; position: absolute; visibility: hidden;" data-ilt="1748607265897">
 
 
   </a>
