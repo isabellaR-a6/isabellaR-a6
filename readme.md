@@ -2,8 +2,8 @@
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=b19cd9&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+BEM+VINDO+AO+MEU+PERFIL!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
 
+<img src="https://i.pinimg.com/originals/75/87/df/7587df77ef521cf98057d0028ee983f1.gif" jsaction="" class="sFlh5c FyHeAf iPVvYb" style="max-width: 1500px; height: 237px; margin: 0px; width: 237px;" alt="Coding Gifs Aesthetic" jsname="kn3ccd">
 
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpjhxkW5ul_XLzOfFm4ajaLw8KUiNIJJ1icA&amp;s" class="sFlh5c FyHeAf" alt="Programmer Day by Porforever" jsname="JuXqh" style="max-width: 300px; width: 300px; height: 234px; margin: 0px; position: absolute; visibility: hidden;" data-ilt="1748606777285">
   </a>
 </div>
 
