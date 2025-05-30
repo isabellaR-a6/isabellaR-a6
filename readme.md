@@ -6,7 +6,7 @@
 -
   </a>
 
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMa1RUVoxl1d30GcRZDJytxdKKMts0FASKjw&amp;s" class="sFlh5c FyHeAf" alt="Pin de Subridet em Gifs para canal | Figuras retrô, Wallpapers bonitos,  8bit art" jsname="JuXqh" style="max-width: 1920px; position: absolute; visibility: hidden;" data-ilt="1748607265897">
+ <img src="https://media.tenor.com/9MyTRyvw8LEAAAAM/gaming-cat.gif" jsaction="" class="sFlh5c FyHeAf iPVvYb" style="max-width: 220px; height: 220px; margin: 0px; width: 220px;" alt="Gaming Cat GIF - Gaming Cat - Discover &amp; Share GIFs" jsname="kn3ccd">
 
 </div>
 
