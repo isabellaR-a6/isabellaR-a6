@@ -1,8 +1,6 @@
-<div align="center">
+<div>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=b19cd9&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+BEM+VINDO+AO+MEU+PERFIL!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
-
-  
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=b19cd9&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+BEM+VINDO+AO+MEU+PERFIL!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">  
   </a>
 
  <img src="https://media.tenor.com/9MyTRyvw8LEAAAAM/gaming-cat.gif" jsaction="" class="sFlh5c FyHeAf iPVvYb" style="max-width: 220px; height: 220px; margin: 0px; width: 220px;" alt="Gaming Cat GIF - Gaming Cat - Discover &amp; Share GIFs" jsname="kn3ccd">
@@ -11,7 +9,7 @@
 
 <img align="center" alt="" src="./src/header-gif.gif">
 
-#
+
 
 <p align="center"> *Olá me chamo Isabella e sou estudante do Técnico de Desenvolvimento de Sistemas no Senai!.  Buscando sempre aprendizagem* 🏎️❤️
   
