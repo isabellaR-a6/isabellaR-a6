@@ -8,10 +8,7 @@
 
 <img src="./src/header-gif.gif">
 
-<p>
-Olá me chamo Isabella e sou estudante do Técnico de Desenvolvimento de Sistemas no Senai.  
-Buscando sempre aprendizagem.
-</p>
+<p align="center"> *Olá me chamo Isabella e sou estudante do Técnico de Desenvolvimento de Sistemas no Senai!.  Buscando sempre aprendizagem* 🏎️❤️
 
 </div>
 
