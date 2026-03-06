@@ -16,8 +16,15 @@
 
 <p align="center"> *Olá me chamo Isabella e sou estudante do Técnico de Desenvolvimento de Sistemas no Senai!.  Buscando sempre aprendizagem* 🏎️❤️
   
-#
 
+# Tecnologias
+
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/>
 
 <img align="right" alt="" height="190px" src="./src/study.gif">
 
