@@ -1,43 +1,54 @@
-<div>
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=b19cd9&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+BEM+VINDO+AO+MEU+PERFIL!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">  
-  </a>
+<div align="center">
 
- <img src="https://media.tenor.com/9MyTRyvw8LEAAAAM/gaming-cat.gif" jsaction="" class="sFlh5c FyHeAf iPVvYb" style="max-width: 220px; height: 220px; margin: 0px; width: 220px;" alt="Gaming Cat GIF - Gaming Cat - Discover &amp; Share GIFs" jsname="kn3ccd">
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=b19cd9&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+BEM+VINDO+AO+MEU+PERFIL!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" />
+</a>
+
+<br><br>
+
+<img src="https://media.tenor.com/9MyTRyvw8LEAAAAM/gaming-cat.gif" width="220">
+
+<br><br>
+
+<img src="./src/header-gif.gif">
+
+<br><br>
+
+Olá me chamo Isabella e sou estudante do Técnico de Desenvolvimento de Sistemas no Senai.  
+Buscando sempre aprendizagem.
 
 </div>
 
-<img align="center" alt="" src="./src/header-gif.gif">
+---
 
+## Tecnologias
 
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,bootstrap,azure,github" />
+</p>
 
-<p align="center"> *Olá me chamo Isabella e sou estudante do Técnico de Desenvolvimento de Sistemas no Senai!.  Buscando sempre aprendizagem* 🏎️❤️
-  
+---
 
-Tecnologias
---
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,mysql,bootstrap,azure,github)](https://skillicons.dev)
+<img align="right" height="190px" src="./src/study.gif">
 
+## Connect with me
 
+<p align="center">
 
-<img align="right" alt="" height="190px" src="./src/study.gif">
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=CCA9DD)](https://www.linkedin.com/in/isabella-radael-654619352/)
 
-<h3 align="left">Connect with me!</h3>
+</p>
 
+---
 
-<img align="right" alt="" height="190px" src="./src/study.gif">
+<p align="center">
+<img src="https://github.com/mari4souza/mari4souza/raw/main/src/study.gif" height="190px">
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=CCA9DD&color:FFF)](https://www.linkedin.com/in/isabella-radael-654619352/)
-
-
-
-<img data-target="animated-image.replacedImage" alt="estudo.gif" class="AnimatedImagePlayer-animatedImage" src="https://github.com/mari4souza/mari4souza/raw/main/src/study.gif" height="190px" style="display: block; opacity: 1;">
-
-
-
+---
 
 <picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
+<img align="center" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
 </picture>
