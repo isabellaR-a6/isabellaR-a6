@@ -1,1 +1,15 @@
+<svg width="800" height="300" viewBox="0 0 800 300" xmlns="http://www.w3.org/2000/svg">
+  <!-- Fundo escuro -->
+  <rect width="100%" height="100%" fill="#0d1117" rx="12" />
+
+  <!-- Imagem do seu print puxada da pasta -->
+  <image 
+    href="./print.png" 
+    x="20" 
+    y="20" 
+    width="760" 
+    height="260" 
+    preserveAspectRatio="xMidYMid meet" 
+  />
+</svg>
 
