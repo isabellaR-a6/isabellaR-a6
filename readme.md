@@ -12,14 +12,13 @@
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=C8A2C8&center=true&vCenter=true&width=435&lines=Projetos+em+Destaque" alt="Projetos em Destaque" />
-  
   <br/><br/>
 
 
   <a href="https://github.com/isabellaR-a6/MoodBeat" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=isabellaR-a6&repo=NOME-DO-REPOSITORIO-1&theme=synthwave&bg_color=1d1a2f&title_color=d8b4f8&text_color=e0d0f5&icon_color=c8a2c8&border_color=9a7aa0&hide_border=false" alt="Projeto MoodBeat" width="48%" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=isabellaR-a6&repo=MoodBeat&theme=synthwave&bg_color=1d1a2f&title_color=d8b4f8&text_color=e0d0f5&icon_color=c8a2c8&border_color=9a7aa0&hide_border=false" alt="MoodBeat" width="48%" />
   </a>
-  <a href="https://github.com/isabellaR-a6/Atividade_Hobbit" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=isabellaR-a6&repo=NOME-DO-REPOSITORIO-2&theme=synthwave&bg_color=1d1a2f&title_color=d8b4f8&text_color=e0d0f5&icon_color=c8a2c8&border_color=9a7aa0&hide_border=false" alt="Projeto Hobbit" width="48%" />
+  <a href="https://github.com/isabellaR-a6/Hobbit" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=isabellaR-a6&repo=Hobbit&theme=synthwave&bg_color=1d1a2f&title_color=d8b4f8&text_color=e0d0f5&icon_color=c8a2c8&border_color=9a7aa0&hide_border=false" alt="Hobbit" width="48%" />
   </a>
 </div>
