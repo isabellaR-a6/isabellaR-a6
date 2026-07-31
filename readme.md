@@ -27,7 +27,7 @@
         <font size="2" color="#A0A0A0">Sua musica de acordo com seu humor</font>
       </td>
       <td align="center" width="50%" style="border: none; padding: 10px;">
-        <a href="https://github.com/isabellaR-a6/Hobbit" target="_blank">
+        <a href="https://github.com/isabellaR-a6/Atividade_Hobbit" target="_blank">
           <img src="./assets/hobbit.png" alt="Projeto Hobbit" width="100%" />
         </a>
         <br/><br/>
