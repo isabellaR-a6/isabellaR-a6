@@ -1,42 +1,88 @@
-<svg width="800" height="300" viewBox="0 0 800 300" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="760" height="756" viewBox="0 0 760 756" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="10" stdDeviation="16" flood-color="#000000" flood-opacity="0.4"/>
+    </filter>
+  </defs>
+
   <style>
-    .bg { fill: #0d1117; rx: 10px; }
+    .mono { font-family: 'JetBrains Mono', 'Fira Code', 'Cascadia Code', Consolas, monospace; }
+    .keyword  { fill: #c792ea; }
+    .func     { fill: #82aaff; }
+    .prop     { fill: #f78c6c; }
+    .string   { fill: #c3e88d; }
+    .punct    { fill: #89ddff; }
+    .comment  { fill: #676e95; font-style: italic; }
+    .plain    { fill: #d6deeb; }
+    .lineno   { fill: #4b5265; }
   </style>
-  
-  <!-- Fundo escuro estilo GitHub -->
-  <rect width="100%" height="100%" class="bg" />
 
-  <!-- Seu print embutido em Base64 -->
-  <image 
-    href="data:image/png;base64,iVBORw0KGgoAAAANSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAABtDSURBVHhe7d19qGVV3QfwPfmS2FGfRNHRLDFTy1SkrKQXK5HeiyhrwN4oIjSbouKpPwoCg+qBgoayp4JeCUYLgixTVMwolF4knaw0zXrMVHx7tEmfspin35q9xj1nzr333HN+99yz534+cOas87r3XmufYX33WnvfdYPBYFuT7MT/uq4tzcb1/3lSW9quLr8+P/w4S/3e/73ukuZ/vvWhUq6eeNanmv846aWlnL1cAABGO+ecc8r9jTfe2FxxxRWlPI5XvvKVzROf+MRSvuOOO5o//vGPzT/+8Y/mmGOOadavX1+ev+eee5oLL7ywlMPxxx9f7g888MDmhBNOKOUtW7Y09913Xyn/+c9/bh544IFSHvaSl7ykefKTn1zKDz30UHPbbbc1d955Z3kc4jvje2644Yb2me3LO+2000r5wQcfbK655prm5ptvbg4//PDm5JNPbg477LBmzz33LK+ff/755T5Ms56T1MsBBxzQnHXWWaX8z3/+s7n++uubv/71r81+++3XHH300c3+++9fXottuPLKK5vbb7+9PA6Ltd/pp5/eHHvssaU8vH2L1ctBBx3U7LvvvuX17udCvH7qqae2j7ZvS2xnrZtY5/j8I4880lx66aXlubBUveyx9957f6y8muiQM85uS7Nx12X/3Za2q8uvzw8/zlK/9//uurl5YMvlpVwdcOIZzT6HHl3K2csFAGC0U045pdzfe++9za233lrK47jrrruaI488snnsYx9bOtZHHHFEeRzlEJ33iy++uPn73/9eHoczzzyzvOeQQw5pn/l3//Df5Xgubvfff39z9913t6/s7JZbbinvjUCy1157lY58/Vz9zn/961/lfVV8V/1MrGeEtNje4447rjwXYSnuw89//vNyH6ZZz0nqJcoRpGKbHvOYx5TQEZ+J+9imCDLx+fjOWPd4b22rxdrvqKOOKt8Zutu3VL1EoKyBsPu5EMF2jz32aA4++OCyrhHGunUTn4vv2GeffZpf/epX7aeWrpfHlH8BAGANi5Gciy66qIygRHCoYpQpnovXFhrtmdT3v//95qqrriojIbGcruHHVXzm2muv3Wkdo3z11Vc3Dz/8cPtMnknrJUahItx0tyO287LLLtvpe7IsVi8xiraYGPn6wQ9+ULYnAmBXrH+s9+9+97v2me2WqhfTBQEAYDdQp7DFFL0vfelL7bOsBiNZAADQc3GuU5yTFRaa+sfsCFkAANATcZGH7u35z39+uYjGi1/84h0XvbjpppvKPatHyAIAgJ6Iq+h1b3G1wLjQQwSsmCYY5yV1r0jI6hCyAACgJyJIdcVFF+JiDXGRibh4Q1zEgdXnwhcAAACJFg1Zm7duaktk2DDY2JZmQ/vNh0nbfdbtN+v9c3en/dYm/++OZv8E1hrTBQEAABIJWQAAAImELAAAgERCFgAAQCIhCwAAIJGQBQAAkEjIAgAASCRkAQAAJBKyAAAAEglZAAAAidYNBoNtbXkXm7duakvM0obBxrY0He3XL8PtPq/tl7V/7u6039rk/93p2D+B3YWRLAAAgERGsmZoqSN0tb6zjuRpv/kwabvPuv1mvX/u7rTf2jTrdu8L+yew1hjJAgAASGQkaw7UI3fZR/K033xbqt3npf1Wav/c3Wm/tWle2r0v7J/A7spIFgAAQCIha4biCF33xtrQl3bvy3oymvZjntk/gbVGyAIAAEgkZAEAACQSsgAAABIJWQAAAImELAAAgERCFgAAQCIhCwAAIJGQBQAAkEjIAgAASCRkAQAAJFo3GAy2teVdbN66qS3NxobBxrY03/pSL9pvPtV2qfU1/Lha7fYbdz0ZTfv122q337xSLwDjMZIFAACQSMgCAABIJGQBAAAkErIAAAASCVkAAACJhCwAAIBEQhYAAEAiIQsAACCRkAUAAJBIyAIAAEi0bjAYbGvLu9i8dVNbmo0Ng41tabtZL7/vVrv+tN/y1Pqq9TSv7bfUejKa9uu3eWk/xmO/BuaNkSwAAIBEvRjJmrcjVKtdL8MWqift1w99aT/tuTzar9/mrf3mxWrXyzD7NTCvjGQBAAAk6tVI1qzXZ94N18tC9Tcr2m86fWm/4fcxmvbrt3ltP7azXwPzzkgWAABAol6OZK32Eau+1Etf1pPRtF+/ab9+036jqReA8RjJAgAASCRkAQAAJBKyAAAAEglZAAAAiYQsAACAREIWAABAIiELAAAgAZAFAACQSMgCAABI5A2A1r2LzVs3tSUyL422tmVp+26/2e/XbvPt2e/Xf/vNm9L/D++3O43vJqO222/aL3p79vv1334z/N7XG/UCMJq1E2x1fXbtt2e/3/jt932v//bb79f/4++L/X751m/54feF++1m36s9+x/X/z399pv3+v3yX1/bb9+X302/d/3+/Xbbv34/3y8A4/01R/9//H9/v3m/v15a//pS/x9j3f5/eX33+p4/3+x1vv/t/z/y6/erI9vfr//3229q/19+932fXfvdtf/+s3P73fXvv1734/26v4/e5793vv//Xl/7/37/f/0/Xf+f4x+2p///8/x3r4/7f/+e31vfb/+3+P
-    v2/ffz9/v2/Xb3/X9///0/f/33/vf1+363/f/e7bfvt9+//79fv19/t9+32vffz9fvv/+/329fvv9
-    /3+//e/v9/v/f//f1+/f//f1/vf//ff7/vf//ff5+/b9///f5+vf//f7/f//f1+/d///v5+/b
-    9+f33/f719+v//ff/+v79/v2//b1+/v99+f//ff9//3+//b///2+f//f7//32/f3///ffv3+
-    /v7/339f379/f/f9+v3+3///v3+//f///32+/7//f/+/f3+//3+//f9f77//99///+//f39f
-    3///v5+/3/9///9f/79/f3//f1+//v7+v3+//7/3+//b/v//f3/vf9+/b3+//b/vf9+f3++
-    /3///f1/fv9//v333/v7+/ff///9+/3///vf//ff+///9f/v9+f3+//e332/f/3/vf/v2+/
-    b3//v/+fvv9/vv+f//9ff///v7+ff9+f9/v9/fvv1+vf3//v//+/d333+/v+f7+/vf/9+/
-    b79v/+//3+//v33/e///v/+vf/+//3/v79/fvv//vv/+//ffv/+3ff9ff/+37/ef//v32/
-    3/ff1+ff3/vv/3f/+/f/9///3ff5/f3+ff1+ffz//v7/vf/+/f//+v//f///ff///v3+/+3
-    /f337/3v3//v/+///+39ff+///vf3//ff///3ff7///v3//7f///f/33+/+ff3+//ef3+//
-    ff/+3/ff/3+//3+ff3///3f//f3///b//f/3ff//9/3//vf/+///ff3//vf//vf//vf3/vf
-    +ffv+f3/v+f3//3f1/ff+///ff/+///ff/3////3ff7+f//f/ff3+//vf//vf//ff/+f33f
-    ff///ef/f/f/v3+ef///9/v//v3////1/3v2////vf/3/v3+/vf//f3///3+f///f/3f3+f
-    3//ff3+vf3/v/f/f3/f///3/ff/+/f/+fff+ff9+3///ffv79f////f+f///f1+/vf+/
-    v3+ef9+f/3ff+eff+ef+ef9/f/ff/+3//+ff33//+ff/+//3//+f3/f/+f3//vf1/e
-    fffffff/+f9/v/ff/3+ef3///ffv+/f//+//+f9+3/e//f33///ff/ff1//v7////3/vv/
-    /3ff////ef/+ef+ff//f1+ef1+ff9+ffff1++fff+ef9+ff1/fffff1/ef3+ef9
-    +ef1+ef1/e/ff3/f3/f1++fff3++fff/f///ef9+ff1+3///ef///ff1/ff/+
-    e///f1++fffffff/f3///3+f///f/3ff//ef//e///ef/+ef/+/f/ff///ef/+ff
-    /+fffffffffff/ef/f1/e///ef//f///f//ff/3+f///3/f/f///ff/f///ef
-    //ff/f/f//f///3+f/f/ff/ff/ff/ef/f//ff//ffffffffffffff/f//ff
-    ///ffffffffffffffff/f///ff//ffffff/f//ff//f/ff/ffffffff/f//ff//
-    fffffffffffff/ffffff" 
-    x="20" 
-    y="15" 
-    width="760" 
-    height="270" 
-    preserveAspectRatio="xMidYMid meet" 
-  />
+  <g filter="url(#shadow)">
+    <!-- Fundo Card -->
+    <rect x="10" y="10" width="740" height="736" rx="16" fill="#1a1a27" stroke="#33334a" stroke-width="1"/>
+
+    <!-- Linha Gutter (Números) -->
+    <line x1="108" y1="30" x2="108" y2="746" stroke="#2a2a3d" stroke-width="1"/>
+    <g class="mono lineno" font-size="14" text-anchor="end">
+      <text x="88" y="76">1</text>
+      <text x="88" y="108">2</text>
+      <text x="88" y="140">3</text>
+      <text x="88" y="172">4</text>
+      <text x="88" y="204">5</text>
+      <text x="88" y="236">6</text>
+      <text x="88" y="268">7</text>
+      <text x="88" y="300">8</text>
+      <text x="88" y="332">9</text>
+      <text x="88" y="364">10</text>
+      <text x="88" y="396">11</text>
+      <text x="88" y="428">12</text>
+      <text x="88" y="460">13</text>
+      <text x="88" y="492">14</text>
+      <text x="88" y="524">15</text>
+      <text x="88" y="556">16</text>
+      <text x="88" y="588">17</text>
+      <text x="88" y="620">18</text>
+      <text x="88" y="652">19</text>
+      <text x="88" y="684">20</text>
+      <text x="88" y="716">21</text>
+    </g>
+
+    <!-- O SEU PRINT SUBSTITUINDO O BELLA (Linhas 1 a 6) -->
+    <g transform="translate(130, 35)">
+      <image 
+        href="./print.png" 
+        x="0" 
+        y="0" 
+        width="580" 
+        height="190" 
+        preserveAspectRatio="xMidYMid meet" 
+      />
+    </g>
+
+    <!-- CODE JS -->
+    <g class="mono" font-size="15.5">
+      <text x="126" y="268"><tspan class="keyword">const</tspan><tspan class="plain"> isabella </tspan><tspan class="punct">=</tspan><tspan class="plain"> {</tspan></text>
+
+      <text x="126" y="300"><tspan class="prop">  role</tspan><tspan class="punct">:</tspan><tspan class="string"> "Estudante de Desenvolvimento de Sistemas"</tspan><tspan class="punct">,</tspan></text>
+
+      <text x="126" y="348"><tspan class="prop">  frontend</tspan><tspan class="punct">: [</tspan><tspan class="string">"HTML"</tspan><tspan class="punct">, </tspan><tspan class="string">"CSS"</tspan><tspan class="punct">, </tspan><tspan class="string">"JavaScript"</tspan><tspan class="punct">, </tspan><tspan class="string">"Bootstrap"</tspan><tspan class="punct">],</tspan></text>
+
+      <text x="126" y="380"><tspan class="prop">  backend</tspan><tspan class="punct">:  [</tspan><tspan class="string">"PHP"</tspan><tspan class="punct">, </tspan><tspan class="string">"MySQL"</tspan><tspan class="punct">],</tspan></text>
+
+      <text x="126" y="412"><tspan class="prop">  tools</tspan><tspan class="punct">:    [</tspan><tspan class="string">"Git"</tspan><tspan class="punct">, </tspan><tspan class="string">"GitHub"</tspan><tspan class="punct">, </tspan><tspan class="string">"Azure"</tspan><tspan class="punct">],</tspan></text>
+
+      <text x="126" y="460"><tspan class="prop">  links</tspan><tspan class="punct">: {</tspan></text>
+      <text x="126" y="492"><tspan class="prop">    linkedin</tspan><tspan class="punct">:</tspan><tspan class="string"> "linkedin.com/in/isabella-radael"</tspan><tspan class="punct">,</tspan></text>
+      <text x="126" y="524"><tspan class="prop">    github</tspan><tspan class="punct">:</tspan><tspan class="string"> "github.com/isabellaR-a6"</tspan></text>
+      <text x="126" y="556" class="punct">  }</text>
+
+      <text x="126" y="588" class="punct">};</text>
+
+      <text x="126" y="636"><tspan class="func">console</tspan><tspan class="punct">.</tspan><tspan class="func">log</tspan><tspan class="punct">(</tspan><tspan class="keyword">`Oi, eu sou a ${</tspan><tspan class="plain">isabella</tspan><tspan class="punct">.</tspan><tspan class="prop">role</tspan><tspan class="keyword">}`</tspan><tspan class="punct">);</tspan></text>
+
+      <text x="126" y="684"><tspan class="keyword">export default</tspan><tspan class="plain"> isabella</tspan><tspan class="punct">;</tspan></text>
+
+      <text x="126" y="724" class="comment">// obrigada pela visita ✨</text>
+    </g>
+  </g>
 </svg>
-
