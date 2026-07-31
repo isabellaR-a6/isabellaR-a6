@@ -47,10 +47,10 @@
       <text x="88" y="716">21</text>
     </g>
 
-    <!-- O SEU PRINT SUBSTITUINDO O BELLA (Linhas 1 a 6) -->
+    <!-- PRINT BUSCADO VIA URL RAW DO GITHUB -->
     <g transform="translate(130, 35)">
       <image 
-        href="./print.png" 
+        href="https://raw.githubusercontent.com/isabellaR-a6/isabellaR-a6/main/assets/print.png" 
         x="0" 
         y="0" 
         width="580" 
