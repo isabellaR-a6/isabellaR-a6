@@ -14,7 +14,7 @@
 
 </div>
 
-## Tecnologias
+## Skills
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,bootstrap,azure,github" />
