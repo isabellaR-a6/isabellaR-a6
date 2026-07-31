@@ -1,16 +1,30 @@
 <div align="center">
-<img src="./assets/profile-code.svg" alt="Isabella's profile" width="100%" />
-<br/><br/>
- 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-161b22?style=flat-square&logo=linkedin&logoColor=82AAFF)](https://www.linkedin.com/in/isabella-radael-654619352/)
-[![GitHub](https://img.shields.io/badge/-GitHub-161b22?style=flat-square&logo=github&logoColor=C3E88D)](https://github.com/isabellaR-a6)
- 
+  <img src="./assets/profile-code.svg" alt="Isabella's profile" width="100%" />
+  <br/><br/>
+
+  <!-- Botões Redes Sociais -->
+  <a href="https://www.linkedin.com/in/isabella-radael-654619352/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-9A7AA0?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/isabellaR-a6" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-2E1A47?style=for-the-badge&logo=github&logoColor=D8B4F8" alt="GitHub" />
+  </a>
 </div>
+
 <br/>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=isabellaR-a6&show_icons=true&theme=onedark&hide_border=true&bg_color=1a1a27&title_color=82aaff&icon_color=c3e88d&cache_seconds=1800" alt="GitHub Stats" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isabellaR-a6&layout=compact&theme=onedark&hide_border=true&bg_color=1a1a27&title_color=82aaff&cache_seconds=1800" alt="Top Languages" width="35%" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=isabellaR-a6&theme=onedark&hide_border=true&background=1A1A27&ring=82AAFF&fire=F78C6C&currStreakLabel=82AAFF" alt="Streak Stats" width="70%" />
-</p>
+
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=C8A2C8&center=true&vCenter=true&width=435&lines=%E2%9C%A8+Projetos+em+Destaque+%E2%9C%A8" alt="Projetos em Destaque" />
+  
+  <br/><br/>
+
+
+  <a href="https://github.com/isabellaR-a6/Atividade_Hobbit">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=isabellaR-a6&repo=NOME-DO-REPOSITORIO-1&theme=synthwave&bg_color=1d1a2f&title_color=d8b4f8&text_color=e0d0f5&icon_color=c8a2c8&border_color=9a7aa0&hide_border=false" alt="Projeto 1" width="48%" />
+  </a>
+  <a href="https://github.com/isabellaR-a6/MoodBeat">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=isabellaR-a6&repo=NOME-DO-REPOSITORIO-2&theme=synthwave&bg_color=1d1a2f&title_color=d8b4f8&text_color=e0d0f5&icon_color=c8a2c8&border_color=9a7aa0&hide_border=false" alt="Projeto 2" width="48%" />
+  </a>
+</div>
