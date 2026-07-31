@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Imagem do topo do perfil -->
-  <img src="./assets/profile-code.svg" alt="Isabella's profile" width="100%" />
+  <img src="https://raw.githubusercontent.com/isabellaR-a6/isabellaR-a6/main/assets/profile-code.svg" alt="Isabella's profile" width="100%" />
   <br/><br/>
 
   <!-- Botões de Redes Sociais -->
@@ -19,7 +19,7 @@
     <tr>
       <td align="center" width="50%" style="border: none; padding: 10px;">
         <a href="https://github.com/isabellaR-a6/MoodBeat" target="_blank">
-          <img src="./assets/moodbeat.png" alt="Projeto MoodBeat" width="100%" />
+          <img src="https://raw.githubusercontent.com/SEU_USUARIO_GITHUB/SEU_REPOSITORIO/main/assets/moodbeat.png" alt="Projeto MoodBeat" width="100%" />
         </a>
         <br/><br/>
         <b><font size="4" color="#C8A2C8">MoodBeat</font></b><br/>
@@ -27,12 +27,12 @@
       </td>
       <td align="center" width="50%" style="border: none; padding: 10px;">
         <a href="https://github.com/isabellaR-a6/Hobbit" target="_blank">
-          <img src="./assets/hobbit.png" alt="Projeto Hobbit" width="100%" />
+          <img src="https://raw.githubusercontent.com/SEU_USUARIO_GITHUB/SEU_REPOSITORIO/main/assets/hobbit.png" alt="Projeto Hobbit" width="100%" />
         </a>
         <br/><br/>
         <b><font size="4" color="#C8A2C8"> Toca Hobbit</font></b><br/>
         <font size="2" color="#A0A0A0">Uma experiencia imersiva no universo de LOTR</font>
       </td>
-    </tr>
+    }
   </table>
 </div>
